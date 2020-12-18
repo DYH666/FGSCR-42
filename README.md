@@ -2,8 +2,7 @@
 A public Dataset for Fine-Grained Ship Classification in Remote sensing images
 
 # Dataset
-Our Dataset are downloadable at https://pan.baidu.com/s/1Bke-qT88vcf7sjvUgGRTZg  password:il7v
-
+Our Dataset are downloadable at https://pan.baidu.com/s/1eXplDfB5fCBPm7WMcFKZkg  password:9xx8
 # Features
 We collect remote sensing images from Google Earth , and popular remote sensing imaged atasets like DOTA , HRSC2016, NWPUVHR-10, etc. containing warships and civilian ships of various scales. The whole dataset contains about 9,320 images which are divided into 42 categories(FGSCR-42).
 ![image](https://github.com/DYH666/FGSCR-42/blob/master/images/shipdemo.png)
